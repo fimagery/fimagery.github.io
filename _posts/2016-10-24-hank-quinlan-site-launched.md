@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "James Fitzgerald, Launches Portfolio"
 date: 2016-10-24
 ---
 
-Well finally I have a blog post.
+Well finally I have a post.
